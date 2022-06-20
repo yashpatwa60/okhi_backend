@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b2098a9.chunk.css",
+    "main.js": "/static/js/main.6136f509.chunk.js",
+    "main.js.map": "/static/js/main.6136f509.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc5a8959.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc5a8959.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.15a44059.chunk.js": "/static/js/2.15a44059.chunk.js",
+    "static/js/2.15a44059.chunk.js.map": "/static/js/2.15a44059.chunk.js.map",
+    "static/js/3.abb8bed2.chunk.js": "/static/js/3.abb8bed2.chunk.js",
+    "static/js/3.abb8bed2.chunk.js.map": "/static/js/3.abb8bed2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0b2098a9.chunk.css.map": "/static/css/main.0b2098a9.chunk.css.map",
+    "static/js/2.15a44059.chunk.js.LICENSE.txt": "/static/js/2.15a44059.chunk.js.LICENSE.txt",
+    "static/media/angellist-brands.2e628feb.svg": "/static/media/angellist-brands.2e628feb.svg",
+    "static/media/easytouse.5541651a.svg": "/static/media/easytouse.5541651a.svg",
+    "static/media/ecofriendly.8afe7d85.svg": "/static/media/ecofriendly.8afe7d85.svg",
+    "static/media/mobile-solid.7347db83.svg": "/static/media/mobile-solid.7347db83.svg",
+    "static/media/money.e49fd106.svg": "/static/media/money.e49fd106.svg",
+    "static/media/share-alt-solid.40c93df5.svg": "/static/media/share-alt-solid.40c93df5.svg",
+    "static/media/smart.a7b49770.svg": "/static/media/smart.a7b49770.svg",
+    "static/media/time.5346f562.svg": "/static/media/time.5346f562.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5a8959.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.15a44059.chunk.js",
+    "static/css/main.0b2098a9.chunk.css",
+    "static/js/main.6136f509.chunk.js"
+  ]
+}
