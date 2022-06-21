@@ -18,7 +18,8 @@ const ALLOWED_DOMAINS = [
   "http://localhost:8080",
   "http://localhost:8081",
   "http://localhost:3000",
-  "http://localhost:3498"
+  "http://localhost:3498",
+  "https://okhi-node-server.herokuapp.com",
 ];
 
 // const CSP_ALLOWED_DOMAINS = [
