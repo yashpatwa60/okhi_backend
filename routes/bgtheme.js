@@ -4,7 +4,7 @@ const router = express.Router()
 // //Config
 const config = require('../config/default')
 const file_config =  config.files
-const base_path = file_config.basepath
+const base_path = file_config.basepath 
 
 // // List of bgthemes
 router.get('/', async(req, res) => {
