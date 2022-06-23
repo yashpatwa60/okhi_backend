@@ -31,7 +31,7 @@ const ALLOWED_DOMAINS = [
 //Using helmet
 app.use(
   helmet.referrerPolicy({
-    policy: "no-referrer",
+    policy: "strict-origin-when-cross-origin",
   })
 );
 
