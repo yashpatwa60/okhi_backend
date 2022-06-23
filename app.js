@@ -20,7 +20,7 @@ const ALLOWED_DOMAINS = [
   "http://localhost:3000",
   "http://localhost:3498",
   "https://okhi-node-server.herokuapp.com",
-  "https://okhi.netlify.app/",
+  "https://okhi.netlify.app",
 ];
 
 // const CSP_ALLOWED_DOMAINS = [
