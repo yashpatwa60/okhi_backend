@@ -111,7 +111,7 @@ app.get('/', (req, res) => {
 })
 
 let mongoURL =
-  `mongodb+srv://${MONGO_USERNAME}:${MONGO_PASSWORD}@cluster0.ukhrs.mongodb.net/?retryWrites=true&w=majority`;
+  `mongodb+srv://${MONGO_USERNAME}:${MONGO_PASSWORD}@cluster0.ukhrs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 mongoose
   .connect(mongoURL, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {

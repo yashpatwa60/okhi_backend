@@ -5,6 +5,7 @@ const bcrypt = require("bcrypt");
 
 //Logging in users
 router.post("/", async (req, res) => {
+
   let email = req.body.email.toLowerCase();
 
   // Only active users
@@ -14,11 +15,11 @@ router.post("/", async (req, res) => {
     status: true,
   });
 
-  if (!user) return res.status(400).send("Invalid username or password");
+  if (!user) return res.status(400).send("Invalid username or password - 1");
 
   const validPassword = await bcrypt.compare(req.body.password, user.password);
   if (!validPassword)
-    return res.status(400).send("Invalid username or password");
+    return res.status(400).send("Invalid username or password -2");
 
   const userToken = user.generateAuthToken()
 
