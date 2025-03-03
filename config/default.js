@@ -13,11 +13,11 @@ const config = {
     uri: ``,
   },
   files: {
-    // path: "https://okhi-node-server.herokuapp.com/uploads/",
-    path: "http://localhost:3498/uploads/",
+    path: "https://okhi-backend.onrender.com/uploads/",
+    // path: "http://localhost:3498/uploads/",
     avatar: "avatar/",
-    basepath: "http://localhost:3498/",
-    // basepath: "https://okhi-node-server.herokuapp.com/",
+    // basepath: "http://localhost:3498/",
+    basepath: "https://okhi-backend.onrender.com/",
   },
 };
 
