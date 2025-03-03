@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b2098a9.chunk.css",
-    "main.js": "/static/js/main.8079aa27.chunk.js",
-    "main.js.map": "/static/js/main.8079aa27.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bc5a8959.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bc5a8959.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.15a44059.chunk.js": "/static/js/2.15a44059.chunk.js",
-    "static/js/2.15a44059.chunk.js.map": "/static/js/2.15a44059.chunk.js.map",
-    "static/js/3.abb8bed2.chunk.js": "/static/js/3.abb8bed2.chunk.js",
-    "static/js/3.abb8bed2.chunk.js.map": "/static/js/3.abb8bed2.chunk.js.map",
+    "main.css": "/static/css/main.3df34e12.chunk.css",
+    "main.js": "/static/js/main.836c710c.chunk.js",
+    "main.js.map": "/static/js/main.836c710c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17b395a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17b395a0.js.map",
+    "static/css/2.ecd857ce.chunk.css": "/static/css/2.ecd857ce.chunk.css",
+    "static/js/2.d6cbb424.chunk.js": "/static/js/2.d6cbb424.chunk.js",
+    "static/js/2.d6cbb424.chunk.js.map": "/static/js/2.d6cbb424.chunk.js.map",
+    "static/js/3.00edd024.chunk.js": "/static/js/3.00edd024.chunk.js",
+    "static/js/3.00edd024.chunk.js.map": "/static/js/3.00edd024.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.0b2098a9.chunk.css.map": "/static/css/main.0b2098a9.chunk.css.map",
-    "static/js/2.15a44059.chunk.js.LICENSE.txt": "/static/js/2.15a44059.chunk.js.LICENSE.txt",
+    "static/css/2.ecd857ce.chunk.css.map": "/static/css/2.ecd857ce.chunk.css.map",
+    "static/css/main.3df34e12.chunk.css.map": "/static/css/main.3df34e12.chunk.css.map",
+    "static/js/2.d6cbb424.chunk.js.LICENSE.txt": "/static/js/2.d6cbb424.chunk.js.LICENSE.txt",
     "static/media/angellist-brands.2e628feb.svg": "/static/media/angellist-brands.2e628feb.svg",
     "static/media/easytouse.5541651a.svg": "/static/media/easytouse.5541651a.svg",
     "static/media/ecofriendly.8afe7d85.svg": "/static/media/ecofriendly.8afe7d85.svg",
@@ -24,10 +24,10 @@
     "static/media/time.5346f562.svg": "/static/media/time.5346f562.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc5a8959.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.15a44059.chunk.js",
-    "static/css/main.0b2098a9.chunk.css",
-    "static/js/main.8079aa27.chunk.js"
+    "static/js/runtime-main.17b395a0.js",
+    "static/css/2.ecd857ce.chunk.css",
+    "static/js/2.d6cbb424.chunk.js",
+    "static/css/main.3df34e12.chunk.css",
+    "static/js/main.836c710c.chunk.js"
   ]
 }
